@@ -1,8 +1,8 @@
 ####Personal detail
 
-Fullname: Võ Sỹ Liên Thành
-Facebook: fb.com/VoSyLienThanh
-Email: vosylienthanh@gmail.com
+- Fullname: Võ Sỹ Liên Thành
+- Facebook: fb.com/VoSyLienThanh
+- Email: vosylienthanh@gmail.com
 
 ####Project description
 1. Project name: Data visualization with Unity
